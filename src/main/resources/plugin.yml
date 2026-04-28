@@ -1,0 +1,20 @@
+name: CoresSMP
+version: ${project.version}
+main: com.coressmp.CoresSMP
+api-version: '1.21'
+description: Cores SMP plugin with 7 unique elemental cores
+
+commands:
+  ability1:
+    description: Use your first ability
+    usage: /ability1
+  ability2:
+    description: Use your second ability
+    usage: /ability2
+  ice:
+    description: Toggle frost walker for Ice core
+    usage: /ice
+  givecore:
+    description: Give a core to a player
+    usage: /givecore <player> <coreName>
+    permission: coressmp.admin

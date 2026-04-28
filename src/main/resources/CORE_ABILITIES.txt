@@ -1,0 +1,122 @@
+CORES SMP
+Please make it so you cant drop them when you die and you cant put them in chests or put them anywhere but your inv,
+
+
+And when you spawn in you automatically get a random core all with equal chance of getting
+
+
++1 kill=+1 tier upgrade +1 Death=-1 tier upgrade,
+
+
+Commands; /ability1, /ability2, /ice (used for the frost walker toggle), /givecore [player] [CoreName],
+
+
+If player has 0 tier there core does nothing,
+CORE ABILITIES 
+
+
+FIRE;
+passives 
+Tier 1: perm fire res
+Tier 2:Fire aspect automatically on every sword
+Tier 3:extra damage when on fire
+Tier 4:when walking on lava lava turns into magma blocks temporary while you walk on them (basically frost walker on lava)
+Tier 5: When you are hit, the player/entity that hit you is put on fire.
+
+
+FIRE ABILITIES
+Tier 3: magma lunge (a spear lunge that does 1-2 hearts) 15sec cooldown
+Tier 5: Fire ball that summons a fire ball the explodes a 5x5 block radius doing 3 hearts 30sec cooldown
+
+WIND;
+Passives
+Tier 1:no fall damage
+Tier 2:can walk through cobs
+Tier 3:perm speed 1
+Tier 4: allows you to place blocks mid air
+Tier 5:Gives you a wind charge that is infinite
+
+
+WIND ABILITIES
+TIER 3: a leap ability that leaps 25 blocks
+TIER 5: Summons a tornado you ride that is as has as fast 12 blocks per sec that does 1.5 hearts with a 30sec cooldown
+
+
+Ender:
+Passives
+Tier 1: slowness and darkness every 10th hit
+Tier 2: cant die to void
+Tier 3:gets 1 extra heart at night
+Tier 4: Mobs dont agro on you
+Tier 5:Gives you a infinite ender pearl
+
+
+ENDER ABILITES
+TIER 3: summons a block hole (no block damage) that deals 2 hearts 30sec cooldown
+TIER 5: summons a ender dragon to ride that does 1 heart when it hits a player and is summoned for 10sec, 60sec cooldown
+
+
+
+
+
+
+
+
+
+
+ICE;
+Passives 
+Tier 1:toggle frost walker boots using the command idk
+Tier 2:cant fall through power snow
+Tier 3:every 10th hit gives the entity slowness 1 for 3 sec
+Tier 4: gives speed 1 on ice
+Tier 5:when standing on snow/ice you get regen 1
+
+
+ICE ABILITIES
+Tier 3: Freezes all entities/players for 3-5sec 20sec cooldown
+Tier 5: Throws 3 ice blocks as a burst not simultaneously deals 1 heart per block that hits 45sec cooldown
+
+
+OCEAN
+Passives
+Tier 1: perm water breathing
+Tier 2: perm aqua infinity 
+Tier 3: every 10th time you get hit the player/entity gets pushed away by water (partical water)
+Tier 4:Extra damage in water
+Tier 5: perm dolphins grace
+
+
+OCEAN ABILITIES
+Tier 3: fills a 10x10x5 area with water 30sec cooldown
+Tier 5: summons a tidal wave covering 15 blocks dealing 1 heart per second in the wave 45sec cooldown
+
+
+ECHO
+Passives
+Tier 1: auto swift sneak on all leggings
+Tier 2: not able to activate skulk sensors/shreakers
+Tier 3: amplifies player sounds
+Tier 4: every 10th block broken you gain 5 xp levels
+Tier 5: every 5min all players within 30-50block radius gets glowing for 30sec
+
+
+ECHO ABILITIES
+Tier 3: gives you 2 extra hearts 30sec cooldown
+Tier 5: Summons The ranged warden attack that deals 3 hearts 60 sec cooldown
+
+
+
+
+WEALTH
+Passives
+Tier 1: Perm hero of the village
+Tier 2: every 10th block you break you get 1 diamond
+Tier 3: every Mob you kill you get 5-10 emeralds
+Tier 4: when you kill someone your hits go through their totem
+Tier 5: every ore in a 10 block radius gets high lighted
+
+
+WEALTH ABILITIES
+Tier 3: money trail (gives speed 3 for 5sec) leaving a green particle trail
+Tier 5: A big emerald that drops from the sky and deals 2 hearts 45sec cooldown
